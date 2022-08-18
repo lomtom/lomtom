@@ -6,10 +6,12 @@
 <p>- 👨‍💻 Cloud computing senior engineer </p>
 <p>- 👨‍🎓 A lifelong learner who likes thinking </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomtom&layout=compact&theme=dark&hide_border=true)](https://lomtom.cn)
 
 <!--
 **lomtom/lomtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomtom&layout=compact&theme=dark&hide_border=true)](https://lomtom.cn)
 
 Here are some ideas to get you started:
 
