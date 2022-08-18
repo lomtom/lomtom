@@ -1,6 +1,6 @@
 ### Hi welcome to there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=lomtom)
+![](https://github-readme-stats.vercel.app/api?username=lomtom&theme=dark)
 
 <!--
 **lomtom/lomtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
