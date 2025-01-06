@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lomtom&theme=github_dark&show_icons=true&hide_border=true&bg_color=#161B22">
+
 
 
 
@@ -6,6 +6,7 @@
 <p>- 👨‍💻 Cloud computing senior engineer </p>
 <p>- 👨‍🎓 A lifelong learner who likes thinking </p>
 <p>- 🌱 <a href="https://algorithm.lomtom.cn"  target="_blank">algorithm base on go</a></p>
+<p>- <img align="right" src="https://github-readme-stats.vercel.app/api?username=lomtom&theme=github_dark&show_icons=true&hide_border=true&bg_color=#161B22"></p>
 
 
 <!--
