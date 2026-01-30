@@ -1,7 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lomtom&theme=github_dark&show_icons=true&hide_border=true&bg_color=#161B22">
-
-
-
 <h2>  Hey 👋, I'm <a href="https://lomtom.cn" target="_blank">Lomtom</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 <p>- 👨‍💻 Cloud computing senior engineer </p>
 <p>- 👨‍🎓 A lifelong learner who likes thinking </p>
